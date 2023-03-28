@@ -1,0 +1,15 @@
+
+.Contador_Container{
+    display: flex;
+    border: 2px solid red;
+    width: 70px;
+}
+
+.Contador_Container > h1{
+    flex-grow: 1;  
+}
+
+.Contador_Container > div{
+    display: flex;
+    flex-direction: column;    
+}

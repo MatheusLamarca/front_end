@@ -1,0 +1,34 @@
+.card_container{
+    border: 2px solid red;
+    margin: 10px;
+    border-radius: 8px;
+    /* padding: 5px; */
+    width: 250px;
+}
+
+.card_head{
+    text-align: center;
+    font-size: 22px;
+    padding: 5px;
+    background-color: red;
+    display: flex;
+}
+
+.card_head > span{
+    flex-grow: 1;
+}
+
+
+.card_body{
+    background-color: #fff;
+    height: 200px;
+
+}
+
+.show{
+    display: block;
+}
+
+.hide{
+    display: none;
+}

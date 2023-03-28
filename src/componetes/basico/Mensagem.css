@@ -1,0 +1,16 @@
+.mensagemBox{
+    background-color: #5b5b5b;
+    margin: 10px;
+    box-shadow: 5px 5px 5px #000;
+}
+.mensagemSubTitulo{
+    text-align: center;
+}
+.mensagemTitulo{
+    font-size: 50px;
+    color: red;
+    background-color: #fff;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+}
